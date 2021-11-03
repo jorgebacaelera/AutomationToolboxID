@@ -1,0 +1,7 @@
+com\test\toolbox\StepsDefinitions\CampaignStepDefinition.class
+com\test\toolbox\Steps\DownloadSteps.class
+com\test\toolbox\Util\Util.class
+com\test\toolbox\Page\ElementsPage.class
+com\test\toolbox\StepsDefinitions\PayStepDefinition.class
+com\test\toolbox\Steps\CampaignSteps.class
+com\test\toolbox\Steps\PaySteps.class
