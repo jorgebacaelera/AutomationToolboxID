@@ -227,7 +227,7 @@ public class PaySteps extends PageObject {
     }
 
     public void accessDummy(){
-        System.out.println("LLEGAMOS AQUI DELETE");
+        System.out.println("LLEGAMOS AQUI DELETE :O");
         getDriver().manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
         (getDriver().findElement(By.xpath("//*[@id=\"navbar-user\"]/ul/li[3]/a"))).click();
         Util.waitFor(3);
